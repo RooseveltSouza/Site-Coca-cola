@@ -1,0 +1,36 @@
+/*Informações*/
+#info{
+    margin-top: 50px;
+    margin-bottom: 65px;
+    text-align: center;
+}
+
+#info label{
+	color: black;
+	font-family: sans-serif;
+    margin:15px 0;
+	display: block;
+	text-transform: uppercase;
+}
+#info input{
+    border:1px solid #2a2a2a;
+	height: 10px;
+	width: 500px;
+	border-radius: 30px;
+	background-color: transparent;
+	padding: 25px 25px;
+	font-family: sans-serif;
+	color: #fff;
+    text-align: center;
+}
+#info textarea{
+    border:1px solid #2a2a2a;
+	height: 105px;
+	width: 500px;
+	border-radius: 30px;
+	background-color: transparent;
+	padding: 25px 25px;
+	font-family: sans-serif;
+	color: #fff;
+    text-align: center;
+}
